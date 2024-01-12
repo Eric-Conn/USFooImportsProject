@@ -2,3 +2,5 @@ For this project we transform the USDA U.S Food Imports Dataset into a time seri
 
 We downloaded the original dataset from https://www.ers.usda.gov/data-products/u-s-food-imports.
 
+Note: I have no affiliation with the U.S. Government.
+
